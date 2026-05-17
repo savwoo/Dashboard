@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+*.egg-info/
+
+# Raw per-round data (too large for GitHub — use aggregated files only)
+data/*/kills.csv
+data/*/rounds_kills.csv
+data/*/eco_rounds.csv
+data/*/win_loss_methods_round_number.csv
+
+# overview.csv is large for 2021/2022 — only 2023/2024 are included
+data/vct_2021/overview.csv
+data/vct_2022/overview.csv
+
+# ID lookup tables (not needed by dashboard)
+data/*/players_ids.csv
+data/*/teams_ids.csv
+data/*/team_mapping.csv
+data/*/tournaments_stages_match_types_ids.csv
+data/*/tournaments_stages_matches_games_ids.csv
+data/all_ids/
+
+# OS
+.DS_Store
+Thumbs.db

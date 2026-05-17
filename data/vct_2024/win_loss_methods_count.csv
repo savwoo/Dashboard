@@ -1,0 +1,469 @@
+Tournament,Stage,Match Type,Match Name,Map,Team,Elimination,Detonated,Defused,Time Expiry (No Plant),Eliminated,Defused Failed,Detonation Denied,Time Expiry (Failed to Plant)
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Karmine Corp vs FunPlus Phoenix,Icebox,Karmine Corp,7,1,3,2,7,0,1,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Karmine Corp vs FunPlus Phoenix,Icebox,FunPlus Phoenix,7,0,1,0,7,1,3,2
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Karmine Corp vs FunPlus Phoenix,Lotus,Karmine Corp,9,1,3,0,6,2,2,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Karmine Corp vs FunPlus Phoenix,Lotus,FunPlus Phoenix,6,2,2,0,9,1,3,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Gen.G vs LOUD,Icebox,Gen.G,10,1,2,0,8,0,3,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Gen.G vs LOUD,Icebox,LOUD,8,0,3,0,10,1,2,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Gen.G vs LOUD,Breeze,Gen.G,5,2,1,0,9,1,3,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Gen.G vs LOUD,Breeze,LOUD,9,1,3,0,5,2,1,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Gen.G vs LOUD,Ascent,Gen.G,12,0,1,0,4,0,1,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Gen.G vs LOUD,Ascent,LOUD,4,0,1,0,12,0,1,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,EDward Gaming vs Paper Rex,Sunset,EDward Gaming,4,2,2,0,11,2,0,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,EDward Gaming vs Paper Rex,Sunset,Paper Rex,11,2,0,0,4,2,2,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,EDward Gaming vs Paper Rex,Bind,EDward Gaming,8,1,3,1,7,0,1,1
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,EDward Gaming vs Paper Rex,Bind,Paper Rex,7,0,1,1,8,1,3,1
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,EDward Gaming vs Paper Rex,Split,EDward Gaming,8,1,4,0,6,2,1,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,EDward Gaming vs Paper Rex,Split,Paper Rex,6,2,1,0,8,1,4,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Sentinels vs Team Heretics,Lotus,Sentinels,12,0,1,0,6,2,1,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Sentinels vs Team Heretics,Lotus,Team Heretics,6,2,1,0,12,0,1,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Sentinels vs Team Heretics,Sunset,Sentinels,4,0,1,0,5,1,7,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Sentinels vs Team Heretics,Sunset,Team Heretics,5,1,7,0,4,0,1,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Sentinels vs Team Heretics,Bind,Sentinels,8,1,4,0,4,3,4,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Sentinels vs Team Heretics,Bind,Team Heretics,4,3,4,0,8,1,4,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Sentinels vs Karmine Corp,Split,Sentinels,4,4,4,1,5,1,2,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Sentinels vs Karmine Corp,Split,Karmine Corp,5,1,2,0,4,4,4,1
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Sentinels vs Karmine Corp,Lotus,Sentinels,7,2,4,0,6,2,2,1
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Sentinels vs Karmine Corp,Lotus,Karmine Corp,6,2,2,1,7,2,4,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,EDward Gaming vs Gen.G,Icebox,EDward Gaming,11,0,2,0,6,1,0,1
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,EDward Gaming vs Gen.G,Icebox,Gen.G,6,1,0,1,11,0,2,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,EDward Gaming vs Gen.G,Split,EDward Gaming,2,0,3,0,10,1,2,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,EDward Gaming vs Gen.G,Split,Gen.G,10,1,2,0,2,0,3,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,EDward Gaming vs Gen.G,Breeze,EDward Gaming,4,2,0,0,12,1,0,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,EDward Gaming vs Gen.G,Breeze,Gen.G,12,1,0,0,4,2,0,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,FunPlus Phoenix vs LOUD,Sunset,FunPlus Phoenix,5,0,0,0,8,2,3,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,FunPlus Phoenix vs LOUD,Sunset,LOUD,8,2,3,0,5,0,0,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,FunPlus Phoenix vs LOUD,Breeze,FunPlus Phoenix,6,1,3,1,4,3,5,1
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,FunPlus Phoenix vs LOUD,Breeze,LOUD,4,3,5,1,6,1,3,1
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Team Heretics vs Paper Rex,Sunset,Team Heretics,2,2,6,0,9,1,3,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Team Heretics vs Paper Rex,Sunset,Paper Rex,9,1,3,0,2,2,6,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Team Heretics vs Paper Rex,Lotus,Team Heretics,7,2,4,0,7,2,1,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Team Heretics vs Paper Rex,Lotus,Paper Rex,7,2,1,0,7,2,4,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Team Heretics vs Paper Rex,Split,Team Heretics,6,0,0,1,11,0,2,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Team Heretics vs Paper Rex,Split,Paper Rex,11,0,2,0,6,0,0,1
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,LOUD vs EDward Gaming,Icebox,LOUD,8,3,2,0,1,0,1,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,LOUD vs EDward Gaming,Icebox,EDward Gaming,1,0,1,0,8,3,2,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,LOUD vs EDward Gaming,Sunset,LOUD,9,0,4,0,2,1,0,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,LOUD vs EDward Gaming,Sunset,EDward Gaming,2,1,0,0,9,0,4,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,Karmine Corp vs Paper Rex,Bind,Karmine Corp,6,1,3,0,8,2,3,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,Karmine Corp vs Paper Rex,Bind,Paper Rex,8,2,3,0,6,1,3,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,Karmine Corp vs Paper Rex,Lotus,Karmine Corp,3,3,6,1,1,3,2,0
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,Karmine Corp vs Paper Rex,Lotus,Paper Rex,1,3,2,0,3,3,6,1
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,Karmine Corp vs Paper Rex,Ascent,Karmine Corp,9,1,2,0,12,0,1,1
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,Karmine Corp vs Paper Rex,Ascent,Paper Rex,12,0,1,1,9,1,2,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Gen.G vs Paper Rex,Split,Gen.G,11,1,0,1,8,0,0,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Gen.G vs Paper Rex,Split,Paper Rex,8,0,0,0,11,1,0,1
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Gen.G vs Paper Rex,Lotus,Gen.G,9,0,4,0,7,1,1,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Gen.G vs Paper Rex,Lotus,Paper Rex,7,1,1,0,9,0,4,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Sentinels vs LOUD,Split,Sentinels,12,1,0,0,1,0,3,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Sentinels vs LOUD,Split,LOUD,1,0,3,0,12,1,0,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Sentinels vs LOUD,Icebox,Sentinels,5,2,5,0,5,3,6,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Sentinels vs LOUD,Icebox,LOUD,5,3,6,0,5,2,5,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Sentinels vs LOUD,Sunset,Sentinels,7,3,2,2,5,3,4,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Sentinels vs LOUD,Sunset,LOUD,5,3,4,0,7,3,2,2
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Final,Gen.G vs Sentinels,Split,Gen.G,7,4,1,1,5,0,0,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Final,Gen.G vs Sentinels,Split,Sentinels,5,0,0,0,7,4,1,1
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Final,Gen.G vs Sentinels,Lotus,Gen.G,3,0,2,2,8,2,3,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Final,Gen.G vs Sentinels,Lotus,Sentinels,8,2,3,0,3,0,2,2
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Final,Gen.G vs Sentinels,Breeze,Gen.G,7,1,4,1,3,0,0,0
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Final,Gen.G vs Sentinels,Breeze,Sentinels,3,0,0,0,7,1,4,1
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Round 1,Paper Rex vs LOUD,Ascent,Paper Rex,10,2,1,0,9,0,2,0
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Round 1,Paper Rex vs LOUD,Ascent,LOUD,9,0,2,0,10,2,1,0
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Round 1,Paper Rex vs LOUD,Sunset,Paper Rex,11,0,1,1,4,1,3,0
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Round 1,Paper Rex vs LOUD,Sunset,LOUD,4,1,3,0,11,0,1,1
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Final,Sentinels vs Paper Rex,Lotus,Sentinels,10,1,3,0,8,0,4,0
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Final,Sentinels vs Paper Rex,Lotus,Paper Rex,8,0,4,0,10,1,3,0
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Final,Sentinels vs Paper Rex,Ascent,Sentinels,9,2,2,0,5,1,0,0
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Final,Sentinels vs Paper Rex,Ascent,Paper Rex,5,1,0,0,9,2,2,0
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Final,Sentinels vs Paper Rex,Split,Sentinels,5,0,0,0,13,0,0,0
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Final,Sentinels vs Paper Rex,Split,Paper Rex,13,0,0,0,5,0,0,0
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Final,Sentinels vs Paper Rex,Sunset,Sentinels,8,1,4,0,3,0,0,0
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Final,Sentinels vs Paper Rex,Sunset,Paper Rex,3,0,0,0,8,1,4,0
+Champions Tour 2024: Masters Madrid,Playoffs,Grand Final,Gen.G vs Sentinels,Breeze,Gen.G,9,2,1,1,4,0,3,1
+Champions Tour 2024: Masters Madrid,Playoffs,Grand Final,Gen.G vs Sentinels,Breeze,Sentinels,4,0,3,1,9,2,1,1
+Champions Tour 2024: Masters Madrid,Playoffs,Grand Final,Gen.G vs Sentinels,Bind,Gen.G,7,2,2,1,10,1,2,1
+Champions Tour 2024: Masters Madrid,Playoffs,Grand Final,Gen.G vs Sentinels,Bind,Sentinels,10,1,2,1,7,2,2,1
+Champions Tour 2024: Masters Madrid,Playoffs,Grand Final,Gen.G vs Sentinels,Ascent,Gen.G,10,1,2,0,5,0,3,0
+Champions Tour 2024: Masters Madrid,Playoffs,Grand Final,Gen.G vs Sentinels,Ascent,Sentinels,5,0,3,0,10,1,2,0
+Champions Tour 2024: Masters Madrid,Playoffs,Grand Final,Gen.G vs Sentinels,Split,Gen.G,6,0,4,0,11,1,1,0
+Champions Tour 2024: Masters Madrid,Playoffs,Grand Final,Gen.G vs Sentinels,Split,Sentinels,11,1,1,0,6,0,4,0
+Champions Tour 2024: Masters Madrid,Playoffs,Grand Final,Gen.G vs Sentinels,Icebox,Gen.G,5,0,1,0,6,2,5,0
+Champions Tour 2024: Masters Madrid,Playoffs,Grand Final,Gen.G vs Sentinels,Icebox,Sentinels,6,2,5,0,5,0,1,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),NRG Esports vs FURIA,Breeze,NRG Esports,10,1,2,0,6,0,3,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),NRG Esports vs FURIA,Breeze,FURIA,6,0,3,1,10,1,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),NRG Esports vs FURIA,Ascent,NRG Esports,8,3,2,0,5,1,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),NRG Esports vs FURIA,Ascent,FURIA,5,1,2,0,8,3,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),Cloud9 vs MIBR,Bind,Cloud9,8,2,1,2,4,5,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),Cloud9 vs MIBR,Bind,MIBR,4,5,2,0,8,2,1,2
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),Cloud9 vs MIBR,Split,Cloud9,4,1,3,0,7,2,3,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),Cloud9 vs MIBR,Split,MIBR,7,2,3,1,4,1,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),Cloud9 vs MIBR,Lotus,Cloud9,6,2,4,1,4,1,5,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),Cloud9 vs MIBR,Lotus,MIBR,4,1,5,0,6,2,4,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),LOUD vs Sentinels,Split,LOUD,9,0,4,0,6,1,4,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),LOUD vs Sentinels,Split,Sentinels,6,1,4,0,9,0,4,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),LOUD vs Sentinels,Ascent,LOUD,5,3,5,0,5,1,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),LOUD vs Sentinels,Ascent,Sentinels,5,1,3,0,5,3,5,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),Leviatán vs 100 Thieves,Bind,Leviatán,10,2,1,0,4,3,1,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),Leviatán vs 100 Thieves,Bind,100 Thieves,4,3,1,1,10,2,1,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),Leviatán vs 100 Thieves,Split,Leviatán,3,0,0,0,8,1,3,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),Leviatán vs 100 Thieves,Split,100 Thieves,8,1,3,1,3,0,0,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),Leviatán vs 100 Thieves,Icebox,Leviatán,8,0,5,0,5,2,3,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),Leviatán vs 100 Thieves,Icebox,100 Thieves,5,2,3,1,8,0,5,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (C),KRÜ Esports vs G2 Esports,Icebox,KRÜ Esports,11,1,1,0,7,0,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (C),KRÜ Esports vs G2 Esports,Icebox,G2 Esports,7,0,2,0,11,1,1,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (C),KRÜ Esports vs G2 Esports,Sunset,KRÜ Esports,4,3,2,0,10,0,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (C),KRÜ Esports vs G2 Esports,Sunset,G2 Esports,10,0,3,0,4,3,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (C),KRÜ Esports vs G2 Esports,Ascent,KRÜ Esports,9,0,2,0,8,3,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (C),KRÜ Esports vs G2 Esports,Ascent,G2 Esports,8,3,2,0,9,0,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (A),FURIA vs MIBR,Split,FURIA,5,4,0,0,9,1,1,2
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (A),FURIA vs MIBR,Split,MIBR,9,1,1,2,5,4,0,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (A),FURIA vs MIBR,Breeze,FURIA,7,1,2,1,4,3,6,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (A),FURIA vs MIBR,Breeze,MIBR,4,3,6,0,7,1,2,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (B),Sentinels vs 100 Thieves,Lotus,Sentinels,8,2,3,0,1,2,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (B),Sentinels vs 100 Thieves,Lotus,100 Thieves,1,2,2,0,8,2,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (B),Sentinels vs 100 Thieves,Bind,Sentinels,3,0,3,0,7,2,3,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (B),Sentinels vs 100 Thieves,Bind,100 Thieves,7,2,3,1,3,0,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (B),Sentinels vs 100 Thieves,Split,Sentinels,9,1,3,0,5,0,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (B),Sentinels vs 100 Thieves,Split,100 Thieves,5,0,3,0,9,1,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (A),NRG Esports vs Cloud9,Sunset,NRG Esports,9,1,3,0,4,1,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (A),NRG Esports vs Cloud9,Sunset,Cloud9,4,1,2,0,9,1,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (A),NRG Esports vs Cloud9,Ascent,NRG Esports,10,1,3,0,9,1,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (A),NRG Esports vs Cloud9,Ascent,Cloud9,9,1,2,0,10,1,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (B),LOUD vs Leviatán,Bind,LOUD,5,3,3,0,11,0,2,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (B),LOUD vs Leviatán,Bind,Leviatán,11,0,2,0,5,3,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (B),LOUD vs Leviatán,Split,LOUD,8,1,3,1,4,3,2,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (B),LOUD vs Leviatán,Split,Leviatán,4,3,2,1,8,1,3,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (B),LOUD vs Leviatán,Ascent,LOUD,7,3,2,1,5,1,1,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (B),LOUD vs Leviatán,Ascent,Leviatán,5,1,1,0,7,3,2,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (C),G2 Esports vs Evil Geniuses,Sunset,G2 Esports,8,2,3,0,12,0,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (C),G2 Esports vs Evil Geniuses,Sunset,Evil Geniuses,12,0,3,0,8,2,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (C),G2 Esports vs Evil Geniuses,Icebox,G2 Esports,6,1,4,0,8,1,3,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (C),G2 Esports vs Evil Geniuses,Icebox,Evil Geniuses,8,1,3,1,6,1,4,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (A),Cloud9 vs MIBR,Bind,Cloud9,5,4,3,0,9,2,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (A),Cloud9 vs MIBR,Bind,MIBR,9,2,3,0,5,4,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (A),Cloud9 vs MIBR,Ascent,Cloud9,4,2,3,0,9,1,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (A),Cloud9 vs MIBR,Ascent,MIBR,9,1,3,0,4,2,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (B),Leviatán vs Sentinels,Split,Leviatán,2,1,0,0,6,0,6,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (B),Leviatán vs Sentinels,Split,Sentinels,6,0,6,1,2,1,0,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (B),Leviatán vs Sentinels,Breeze,Leviatán,8,2,3,0,3,2,1,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (B),Leviatán vs Sentinels,Breeze,Sentinels,3,2,1,0,8,2,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (B),Leviatán vs Sentinels,Bind,Leviatán,5,1,3,0,7,3,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (B),Leviatán vs Sentinels,Bind,Sentinels,7,3,3,0,5,1,3,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (C),G2 Esports vs KRÜ Esports,Split,G2 Esports,10,1,1,1,8,0,0,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (C),G2 Esports vs KRÜ Esports,Split,KRÜ Esports,8,0,0,0,10,1,1,1
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (C),G2 Esports vs KRÜ Esports,Sunset,G2 Esports,9,2,2,0,8,0,0,0
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (C),G2 Esports vs KRÜ Esports,Sunset,KRÜ Esports,8,0,0,0,9,2,2,0
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,MIBR vs Sentinels,Split,MIBR,4,0,3,0,8,0,4,1
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,MIBR vs Sentinels,Split,Sentinels,8,0,4,1,4,0,3,0
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,MIBR vs Sentinels,Ascent,MIBR,5,1,0,0,10,0,3,0
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,MIBR vs Sentinels,Ascent,Sentinels,10,0,3,0,5,1,0,0
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,G2 Esports vs MIBR,Sunset,G2 Esports,4,0,5,0,8,0,4,1
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,G2 Esports vs MIBR,Sunset,MIBR,8,0,4,1,4,0,5,0
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,G2 Esports vs MIBR,Split,G2 Esports,7,2,5,1,10,1,2,0
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,G2 Esports vs MIBR,Split,MIBR,10,1,2,0,7,2,5,1
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,G2 Esports vs MIBR,Breeze,G2 Esports,2,2,4,2,9,1,3,0
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,G2 Esports vs MIBR,Breeze,MIBR,9,1,3,0,2,2,4,2
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,Sentinels vs G2 Esports,Sunset,Sentinels,5,1,7,0,1,0,5,2
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,Sentinels vs G2 Esports,Sunset,G2 Esports,1,0,5,2,5,1,7,0
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,Sentinels vs G2 Esports,Breeze,Sentinels,5,1,3,0,10,0,3,0
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,Sentinels vs G2 Esports,Breeze,G2 Esports,10,0,3,0,5,1,3,0
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,Sentinels vs G2 Esports,Split,Sentinels,4,1,4,0,7,2,2,2
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,Sentinels vs G2 Esports,Split,G2 Esports,7,2,2,2,4,1,4,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,Evil Geniuses vs LOUD,Ascent,Evil Geniuses,12,0,1,0,4,1,1,1
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,Evil Geniuses vs LOUD,Ascent,LOUD,4,1,1,1,12,0,1,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,Evil Geniuses vs LOUD,Icebox,Evil Geniuses,6,0,1,0,7,1,5,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,Evil Geniuses vs LOUD,Icebox,LOUD,7,1,5,0,6,0,1,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,Evil Geniuses vs LOUD,Sunset,Evil Geniuses,5,0,0,0,7,1,5,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,Evil Geniuses vs LOUD,Sunset,LOUD,7,1,5,0,5,0,0,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,NRG Esports vs Sentinels,Sunset,NRG Esports,8,2,4,0,9,3,4,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,NRG Esports vs Sentinels,Sunset,Sentinels,9,3,4,0,8,2,4,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,NRG Esports vs Sentinels,Ascent,NRG Esports,8,2,3,0,3,3,1,1
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,NRG Esports vs Sentinels,Ascent,Sentinels,3,3,1,1,8,2,3,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,NRG Esports vs Sentinels,Split,NRG Esports,1,1,1,0,6,0,7,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,NRG Esports vs Sentinels,Split,Sentinels,6,0,7,0,1,1,1,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Grand Final,LOUD vs Sentinels,Sunset,LOUD,3,2,4,0,8,1,4,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Grand Final,LOUD vs Sentinels,Sunset,Sentinels,8,1,4,0,3,2,4,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Grand Final,LOUD vs Sentinels,Split,LOUD,2,1,0,0,7,1,3,2
+Champions Tour 2024: Americas Kickoff,Playoffs,Grand Final,LOUD vs Sentinels,Split,Sentinels,7,1,3,2,2,1,0,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Grand Final,LOUD vs Sentinels,Icebox,LOUD,8,2,3,0,6,2,3,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Grand Final,LOUD vs Sentinels,Icebox,Sentinels,6,2,3,0,8,2,3,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Grand Final,LOUD vs Sentinels,Bind,LOUD,8,2,3,0,5,2,1,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Grand Final,LOUD vs Sentinels,Bind,Sentinels,5,2,1,0,8,2,3,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Grand Final,LOUD vs Sentinels,Lotus,LOUD,2,0,2,0,8,3,2,0
+Champions Tour 2024: Americas Kickoff,Playoffs,Grand Final,LOUD vs Sentinels,Lotus,Sentinels,8,3,2,0,2,0,2,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (A),Trace Esports vs TYLOO,Ascent,Trace Esports,6,0,6,1,3,1,0,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (A),Trace Esports vs TYLOO,Ascent,TYLOO,3,1,0,0,6,0,6,1
+Champions Tour 2024: China Kickoff,Group Stage,Opening (A),Trace Esports vs TYLOO,Sunset,Trace Esports,8,0,5,0,2,1,0,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (A),Trace Esports vs TYLOO,Sunset,TYLOO,2,1,0,0,8,0,5,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (A),FunPlus Phoenix vs Nova Esports,Lotus,FunPlus Phoenix,10,0,3,0,3,2,0,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (A),FunPlus Phoenix vs Nova Esports,Lotus,Nova Esports,3,2,0,0,10,0,3,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (A),FunPlus Phoenix vs Nova Esports,Sunset,FunPlus Phoenix,11,1,1,0,4,3,3,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (A),FunPlus Phoenix vs Nova Esports,Sunset,Nova Esports,4,3,3,0,11,1,1,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (B),JD Gaming vs Titan Esports Club,Lotus,JD Gaming,6,1,1,0,10,0,1,2
+Champions Tour 2024: China Kickoff,Group Stage,Opening (B),JD Gaming vs Titan Esports Club,Lotus,Titan Esports Club,10,0,1,2,6,1,1,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (B),JD Gaming vs Titan Esports Club,Bind,JD Gaming,8,0,5,1,8,2,5,1
+Champions Tour 2024: China Kickoff,Group Stage,Opening (B),JD Gaming vs Titan Esports Club,Bind,Titan Esports Club,8,2,5,1,8,0,5,1
+Champions Tour 2024: China Kickoff,Group Stage,Opening (B),Dragon Ranger Gaming vs All Gamers,Sunset,Dragon Ranger Gaming,11,1,1,0,9,0,1,1
+Champions Tour 2024: China Kickoff,Group Stage,Opening (B),Dragon Ranger Gaming vs All Gamers,Sunset,All Gamers,9,0,1,1,11,1,1,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (B),Dragon Ranger Gaming vs All Gamers,Ascent,Dragon Ranger Gaming,11,0,1,1,3,1,0,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (B),Dragon Ranger Gaming vs All Gamers,Ascent,All Gamers,3,1,0,0,11,0,1,1
+Champions Tour 2024: China Kickoff,Group Stage,Opening (C),Bilibili Gaming vs Wolves Esports,Ascent,Bilibili Gaming,6,1,1,1,11,0,0,2
+Champions Tour 2024: China Kickoff,Group Stage,Opening (C),Bilibili Gaming vs Wolves Esports,Ascent,Wolves Esports,11,0,0,2,6,1,1,1
+Champions Tour 2024: China Kickoff,Group Stage,Opening (C),Bilibili Gaming vs Wolves Esports,Icebox,Bilibili Gaming,4,0,3,0,10,1,2,0
+Champions Tour 2024: China Kickoff,Group Stage,Opening (C),Bilibili Gaming vs Wolves Esports,Icebox,Wolves Esports,10,1,2,0,4,0,3,0
+Champions Tour 2024: China Kickoff,Group Stage,Elimination (A),TYLOO vs Nova Esports,Ascent,TYLOO,9,0,2,0,12,0,0,1
+Champions Tour 2024: China Kickoff,Group Stage,Elimination (A),TYLOO vs Nova Esports,Ascent,Nova Esports,12,0,0,1,9,0,2,0
+Champions Tour 2024: China Kickoff,Group Stage,Elimination (A),TYLOO vs Nova Esports,Split,TYLOO,9,0,2,0,10,1,1,1
+Champions Tour 2024: China Kickoff,Group Stage,Elimination (A),TYLOO vs Nova Esports,Split,Nova Esports,10,1,1,1,9,0,2,0
+Champions Tour 2024: China Kickoff,Group Stage,Elimination (B),JD Gaming vs All Gamers,Icebox,JD Gaming,6,2,3,2,6,1,3,1
+Champions Tour 2024: China Kickoff,Group Stage,Elimination (B),JD Gaming vs All Gamers,Icebox,All Gamers,6,1,3,1,6,2,3,2
+Champions Tour 2024: China Kickoff,Group Stage,Elimination (B),JD Gaming vs All Gamers,Sunset,JD Gaming,12,0,0,1,4,1,2,1
+Champions Tour 2024: China Kickoff,Group Stage,Elimination (B),JD Gaming vs All Gamers,Sunset,All Gamers,4,1,2,1,12,0,0,1
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (A),Trace Esports vs FunPlus Phoenix,Sunset,Trace Esports,8,1,2,0,9,2,2,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (A),Trace Esports vs FunPlus Phoenix,Sunset,FunPlus Phoenix,9,2,2,0,8,1,2,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (A),Trace Esports vs FunPlus Phoenix,Bind,Trace Esports,9,2,2,0,9,2,0,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (A),Trace Esports vs FunPlus Phoenix,Bind,FunPlus Phoenix,9,2,0,0,9,2,2,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (A),Trace Esports vs FunPlus Phoenix,Lotus,Trace Esports,7,1,1,1,6,3,4,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (A),Trace Esports vs FunPlus Phoenix,Lotus,FunPlus Phoenix,6,3,4,0,7,1,1,1
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (B),Titan Esports Club vs Dragon Ranger Gaming,Icebox,Titan Esports Club,6,0,4,1,4,1,7,1
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (B),Titan Esports Club vs Dragon Ranger Gaming,Icebox,Dragon Ranger Gaming,4,1,7,1,6,0,4,1
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (B),Titan Esports Club vs Dragon Ranger Gaming,Split,Titan Esports Club,12,0,1,0,6,1,1,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (B),Titan Esports Club vs Dragon Ranger Gaming,Split,Dragon Ranger Gaming,6,1,1,0,12,0,1,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (B),Titan Esports Club vs Dragon Ranger Gaming,Bind,Titan Esports Club,8,0,2,0,9,2,2,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (B),Titan Esports Club vs Dragon Ranger Gaming,Bind,Dragon Ranger Gaming,9,2,2,0,8,0,2,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (C),Wolves Esports vs EDward Gaming,Bind,Wolves Esports,6,2,0,2,8,0,5,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (C),Wolves Esports vs EDward Gaming,Bind,EDward Gaming,8,0,5,0,6,2,0,2
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (C),Wolves Esports vs EDward Gaming,Ascent,Wolves Esports,11,0,0,2,6,1,3,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (C),Wolves Esports vs EDward Gaming,Ascent,EDward Gaming,6,1,3,0,11,0,0,2
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (C),Wolves Esports vs EDward Gaming,Breeze,Wolves Esports,9,0,2,0,7,3,3,0
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (C),Wolves Esports vs EDward Gaming,Breeze,EDward Gaming,7,3,3,0,9,0,2,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (A),Trace Esports vs Nova Esports,Split,Trace Esports,11,1,1,0,4,1,0,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (A),Trace Esports vs Nova Esports,Split,Nova Esports,4,1,0,0,11,1,1,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (A),Trace Esports vs Nova Esports,Lotus,Trace Esports,10,0,3,0,3,1,0,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (A),Trace Esports vs Nova Esports,Lotus,Nova Esports,3,1,0,0,10,0,3,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (B),Titan Esports Club vs JD Gaming,Bind,Titan Esports Club,3,1,1,0,6,3,4,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (B),Titan Esports Club vs JD Gaming,Bind,JD Gaming,6,3,4,0,3,1,1,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (B),Titan Esports Club vs JD Gaming,Icebox,Titan Esports Club,8,2,4,0,9,0,3,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (B),Titan Esports Club vs JD Gaming,Icebox,JD Gaming,9,0,3,0,8,2,4,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (B),Titan Esports Club vs JD Gaming,Lotus,Titan Esports Club,8,1,4,0,4,3,3,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (B),Titan Esports Club vs JD Gaming,Lotus,JD Gaming,4,3,3,0,8,1,4,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (C),Wolves Esports vs Bilibili Gaming,Sunset,Wolves Esports,6,0,3,0,11,0,2,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (C),Wolves Esports vs Bilibili Gaming,Sunset,Bilibili Gaming,11,0,2,0,6,0,3,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (C),Wolves Esports vs Bilibili Gaming,Icebox,Wolves Esports,7,0,2,1,10,0,3,0
+Champions Tour 2024: China Kickoff,Group Stage,Decider (C),Wolves Esports vs Bilibili Gaming,Icebox,Bilibili Gaming,10,0,3,0,7,0,2,1
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Trace Esports vs Titan Esports Club,Breeze,Trace Esports,11,2,3,0,14,0,4,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Trace Esports vs Titan Esports Club,Breeze,Titan Esports Club,14,0,4,0,11,2,3,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Trace Esports vs Titan Esports Club,Lotus,Trace Esports,8,2,3,0,4,0,2,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Trace Esports vs Titan Esports Club,Lotus,Titan Esports Club,4,0,2,0,8,2,3,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Trace Esports vs Titan Esports Club,Split,Trace Esports,12,1,0,0,5,1,2,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Trace Esports vs Titan Esports Club,Split,Titan Esports Club,5,1,2,0,12,1,0,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Titan Esports Club,Lotus,Bilibili Gaming,8,0,5,0,2,1,0,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Titan Esports Club,Lotus,Titan Esports Club,2,1,0,0,8,0,5,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Titan Esports Club,Ascent,Bilibili Gaming,12,1,0,0,7,0,1,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Titan Esports Club,Ascent,Titan Esports Club,7,0,1,0,12,1,0,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Trace Esports,Lotus,Bilibili Gaming,7,2,4,0,7,1,3,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Trace Esports,Lotus,Trace Esports,7,1,3,0,7,2,4,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Trace Esports,Sunset,Bilibili Gaming,8,1,4,0,12,0,3,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Trace Esports,Sunset,Trace Esports,12,0,3,0,8,1,4,0
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Trace Esports,Bind,Bilibili Gaming,5,1,4,2,8,2,1,3
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Trace Esports,Bind,Trace Esports,8,2,1,3,5,1,4,2
+Champions Tour 2024: China Kickoff,Playoffs,Semifinals,FunPlus Phoenix vs Dragon Ranger Gaming,Ascent,FunPlus Phoenix,11,1,1,0,7,0,2,1
+Champions Tour 2024: China Kickoff,Playoffs,Semifinals,FunPlus Phoenix vs Dragon Ranger Gaming,Ascent,Dragon Ranger Gaming,7,0,2,1,11,1,1,0
+Champions Tour 2024: China Kickoff,Playoffs,Semifinals,FunPlus Phoenix vs Dragon Ranger Gaming,Breeze,FunPlus Phoenix,8,1,3,1,3,0,3,0
+Champions Tour 2024: China Kickoff,Playoffs,Semifinals,FunPlus Phoenix vs Dragon Ranger Gaming,Breeze,Dragon Ranger Gaming,3,0,3,0,8,1,3,1
+Champions Tour 2024: China Kickoff,Playoffs,Semifinals,EDward Gaming vs Trace Esports,Sunset,EDward Gaming,9,1,4,0,8,2,1,1
+Champions Tour 2024: China Kickoff,Playoffs,Semifinals,EDward Gaming vs Trace Esports,Sunset,Trace Esports,8,2,1,1,9,1,4,0
+Champions Tour 2024: China Kickoff,Playoffs,Semifinals,EDward Gaming vs Trace Esports,Bind,EDward Gaming,8,2,3,0,3,0,3,0
+Champions Tour 2024: China Kickoff,Playoffs,Semifinals,EDward Gaming vs Trace Esports,Bind,Trace Esports,3,0,3,0,8,2,3,0
+Champions Tour 2024: China Kickoff,Playoffs,Grand Final,FunPlus Phoenix vs EDward Gaming,Breeze,FunPlus Phoenix,11,0,1,0,9,1,4,0
+Champions Tour 2024: China Kickoff,Playoffs,Grand Final,FunPlus Phoenix vs EDward Gaming,Breeze,EDward Gaming,9,1,4,0,11,0,1,0
+Champions Tour 2024: China Kickoff,Playoffs,Grand Final,FunPlus Phoenix vs EDward Gaming,Split,FunPlus Phoenix,2,1,2,1,9,1,2,1
+Champions Tour 2024: China Kickoff,Playoffs,Grand Final,FunPlus Phoenix vs EDward Gaming,Split,EDward Gaming,9,1,2,1,2,1,2,1
+Champions Tour 2024: China Kickoff,Playoffs,Grand Final,FunPlus Phoenix vs EDward Gaming,Icebox,FunPlus Phoenix,11,0,0,2,8,0,0,0
+Champions Tour 2024: China Kickoff,Playoffs,Grand Final,FunPlus Phoenix vs EDward Gaming,Icebox,EDward Gaming,8,0,0,0,11,0,0,2
+Champions Tour 2024: China Kickoff,Playoffs,Grand Final,FunPlus Phoenix vs EDward Gaming,Ascent,FunPlus Phoenix,9,1,3,1,11,2,2,1
+Champions Tour 2024: China Kickoff,Playoffs,Grand Final,FunPlus Phoenix vs EDward Gaming,Ascent,EDward Gaming,11,2,2,1,9,1,3,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),FUT Esports vs Team Heretics,Lotus,FUT Esports,7,0,4,0,8,2,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),FUT Esports vs Team Heretics,Lotus,Team Heretics,8,2,3,0,7,0,4,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),FUT Esports vs Team Heretics,Bind,FUT Esports,6,1,2,1,7,0,6,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),FUT Esports vs Team Heretics,Bind,Team Heretics,7,0,6,0,6,1,2,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),GIANTX vs Karmine Corp,Split,GIANTX,8,0,3,0,7,2,4,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),GIANTX vs Karmine Corp,Split,Karmine Corp,7,2,4,0,8,0,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),GIANTX vs Karmine Corp,Sunset,GIANTX,10,0,3,0,6,1,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),GIANTX vs Karmine Corp,Sunset,Karmine Corp,6,1,3,0,10,0,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),GIANTX vs Karmine Corp,Lotus,GIANTX,4,0,0,0,7,1,5,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),GIANTX vs Karmine Corp,Lotus,Karmine Corp,7,1,5,0,4,0,0,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Natus Vincere vs BBL Esports,Bind,Natus Vincere,4,1,2,1,4,3,6,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Natus Vincere vs BBL Esports,Bind,BBL Esports,4,3,6,0,4,1,2,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Natus Vincere vs BBL Esports,Ascent,Natus Vincere,11,1,1,0,5,1,0,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Natus Vincere vs BBL Esports,Ascent,BBL Esports,5,1,0,0,11,1,1,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Natus Vincere vs BBL Esports,Breeze,Natus Vincere,8,0,4,1,5,0,1,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Natus Vincere vs BBL Esports,Breeze,BBL Esports,5,0,1,0,8,0,4,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Team Liquid vs KOI,Icebox,Team Liquid,5,4,4,0,7,1,2,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Team Liquid vs KOI,Icebox,KOI,7,1,2,0,5,4,4,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Team Liquid vs KOI,Bind,Team Liquid,7,3,2,1,9,0,2,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Team Liquid vs KOI,Bind,KOI,9,0,2,0,7,3,2,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (C),Team Vitality vs Gentle Mates,Sunset,Team Vitality,5,4,4,0,5,4,1,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (C),Team Vitality vs Gentle Mates,Sunset,Gentle Mates,5,4,1,0,5,4,4,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (C),Team Vitality vs Gentle Mates,Lotus,Team Vitality,5,2,5,1,3,2,2,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (C),Team Vitality vs Gentle Mates,Lotus,Gentle Mates,3,2,2,0,5,2,5,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (A),Team Heretics vs Karmine Corp,Split,Team Heretics,7,1,4,1,3,0,1,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (A),Team Heretics vs Karmine Corp,Split,Karmine Corp,3,0,1,0,7,1,4,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (A),Team Heretics vs Karmine Corp,Lotus,Team Heretics,6,1,5,1,3,1,0,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (A),Team Heretics vs Karmine Corp,Lotus,Karmine Corp,3,1,0,0,6,1,5,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (A),FUT Esports vs GIANTX,Split,FUT Esports,6,2,4,1,3,1,1,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (A),FUT Esports vs GIANTX,Split,GIANTX,3,1,1,1,6,2,4,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (A),FUT Esports vs GIANTX,Icebox,FUT Esports,4,0,4,0,9,1,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (A),FUT Esports vs GIANTX,Icebox,GIANTX,9,1,3,0,4,0,4,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (A),FUT Esports vs GIANTX,Sunset,FUT Esports,8,1,4,0,3,1,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (A),FUT Esports vs GIANTX,Sunset,GIANTX,3,1,3,0,8,1,4,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (B),Natus Vincere vs Team Liquid,Split,Natus Vincere,9,2,2,0,6,1,0,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (B),Natus Vincere vs Team Liquid,Split,Team Liquid,6,1,0,0,9,2,2,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (B),Natus Vincere vs Team Liquid,Breeze,Natus Vincere,11,1,1,0,4,1,2,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (B),Natus Vincere vs Team Liquid,Breeze,Team Liquid,4,1,2,0,11,1,1,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (B),BBL Esports vs KOI,Bind,BBL Esports,1,2,0,2,8,2,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (B),BBL Esports vs KOI,Bind,KOI,8,2,3,0,1,2,0,2
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (B),BBL Esports vs KOI,Split,BBL Esports,7,0,2,1,7,1,5,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (B),BBL Esports vs KOI,Split,KOI,7,1,5,0,7,0,2,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (C),Team Vitality vs FNATIC,Lotus,Team Vitality,6,3,3,0,9,2,2,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (C),Team Vitality vs FNATIC,Lotus,FNATIC,9,2,2,1,6,3,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (C),Team Vitality vs FNATIC,Ascent,Team Vitality,4,1,0,0,7,1,5,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (C),Team Vitality vs FNATIC,Ascent,FNATIC,7,1,5,0,4,1,0,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (C),Team Vitality vs Gentle Mates,Breeze,Team Vitality,4,0,0,0,11,1,1,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (C),Team Vitality vs Gentle Mates,Breeze,Gentle Mates,11,1,1,0,4,0,0,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (C),Team Vitality vs Gentle Mates,Lotus,Team Vitality,10,1,3,1,7,3,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (C),Team Vitality vs Gentle Mates,Lotus,Gentle Mates,7,3,3,0,10,1,3,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (C),Team Vitality vs Gentle Mates,Sunset,Team Vitality,6,7,0,0,2,0,1,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (C),Team Vitality vs Gentle Mates,Sunset,Gentle Mates,2,0,1,0,6,7,0,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (A),Karmine Corp vs FUT Esports,Lotus,Karmine Corp,14,2,4,0,10,2,6,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (A),Karmine Corp vs FUT Esports,Lotus,FUT Esports,10,2,6,0,14,2,4,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (A),Karmine Corp vs FUT Esports,Bind,Karmine Corp,1,0,3,0,6,3,4,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (A),Karmine Corp vs FUT Esports,Bind,FUT Esports,6,3,4,0,1,0,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (A),Karmine Corp vs FUT Esports,Sunset,Karmine Corp,3,0,9,1,4,0,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (A),Karmine Corp vs FUT Esports,Sunset,FUT Esports,4,0,3,0,3,0,9,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (B),Team Liquid vs KOI,Sunset,Team Liquid,7,1,1,2,8,2,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (B),Team Liquid vs KOI,Sunset,KOI,8,2,3,0,7,1,1,2
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (B),Team Liquid vs KOI,Icebox,Team Liquid,9,2,2,1,9,0,3,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (B),Team Liquid vs KOI,Icebox,KOI,9,0,3,0,9,2,2,1
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (B),Team Liquid vs KOI,Split,Team Liquid,6,2,2,0,8,3,2,0
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (B),Team Liquid vs KOI,Split,KOI,8,3,2,0,6,2,2,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,Karmine Corp vs Team Vitality,Sunset,Karmine Corp,5,2,6,0,3,2,3,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,Karmine Corp vs Team Vitality,Sunset,Team Vitality,3,2,3,0,5,2,6,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,Karmine Corp vs Team Vitality,Ascent,Karmine Corp,7,4,4,0,8,2,3,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,Karmine Corp vs Team Vitality,Ascent,Team Vitality,8,2,3,0,7,4,4,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,KOI vs Team Vitality,Sunset,KOI,3,4,2,0,7,4,2,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,KOI vs Team Vitality,Sunset,Team Vitality,7,4,2,0,3,4,2,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,KOI vs Team Vitality,Breeze,KOI,2,0,4,0,10,1,2,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,KOI vs Team Vitality,Breeze,Team Vitality,10,1,2,0,2,0,4,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,Karmine Corp vs KOI,Sunset,Karmine Corp,5,1,7,0,3,1,0,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,Karmine Corp vs KOI,Sunset,KOI,3,1,0,0,5,1,7,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,Karmine Corp vs KOI,Bind,Karmine Corp,7,4,2,0,5,1,1,0
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,Karmine Corp vs KOI,Bind,KOI,5,1,1,0,7,4,2,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Semifinals,Team Heretics vs Natus Vincere,Sunset,Team Heretics,11,1,1,3,10,0,4,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Semifinals,Team Heretics vs Natus Vincere,Sunset,Natus Vincere,10,0,4,0,11,1,1,3
+Champions Tour 2024: EMEA Kickoff,Playoffs,Semifinals,Team Heretics vs Natus Vincere,Breeze,Team Heretics,9,2,2,0,3,0,1,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Semifinals,Team Heretics vs Natus Vincere,Breeze,Natus Vincere,3,0,1,0,9,2,2,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Semifinals,FNATIC vs Karmine Corp,Lotus,FNATIC,5,1,4,0,7,0,6,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Semifinals,FNATIC vs Karmine Corp,Lotus,Karmine Corp,7,0,6,0,5,1,4,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Semifinals,FNATIC vs Karmine Corp,Split,FNATIC,5,2,1,0,6,3,4,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Semifinals,FNATIC vs Karmine Corp,Split,Karmine Corp,6,3,4,0,5,2,1,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Grand Final,Team Heretics vs Karmine Corp,Sunset,Team Heretics,7,1,4,1,6,0,2,1
+Champions Tour 2024: EMEA Kickoff,Playoffs,Grand Final,Team Heretics vs Karmine Corp,Sunset,Karmine Corp,6,0,2,1,7,1,4,1
+Champions Tour 2024: EMEA Kickoff,Playoffs,Grand Final,Team Heretics vs Karmine Corp,Lotus,Team Heretics,3,3,1,0,11,0,2,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Grand Final,Team Heretics vs Karmine Corp,Lotus,Karmine Corp,11,0,2,0,3,3,1,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Grand Final,Team Heretics vs Karmine Corp,Icebox,Team Heretics,5,0,2,0,9,0,4,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Grand Final,Team Heretics vs Karmine Corp,Icebox,Karmine Corp,9,0,4,0,5,0,2,0
+Champions Tour 2024: EMEA Kickoff,Playoffs,Grand Final,Team Heretics vs Karmine Corp,Split,Team Heretics,3,1,1,0,7,0,3,3
+Champions Tour 2024: EMEA Kickoff,Playoffs,Grand Final,Team Heretics vs Karmine Corp,Split,Karmine Corp,7,0,3,3,3,1,1,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (A),T1 vs BLEED,Breeze,T1,11,1,6,0,7,3,6,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (A),T1 vs BLEED,Breeze,BLEED,7,3,6,0,11,1,6,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (A),T1 vs BLEED,Lotus,T1,6,3,4,0,3,1,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (A),T1 vs BLEED,Lotus,BLEED,3,1,2,0,6,3,4,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (C),Gen.G vs Rex Regum Qeon,Icebox,Gen.G,6,1,6,0,9,0,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (C),Gen.G vs Rex Regum Qeon,Icebox,Rex Regum Qeon,9,0,2,0,6,1,6,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (C),Gen.G vs Rex Regum Qeon,Split,Gen.G,11,0,0,0,9,0,4,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (C),Gen.G vs Rex Regum Qeon,Split,Rex Regum Qeon,9,0,4,0,11,0,0,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (C),Gen.G vs Rex Regum Qeon,Sunset,Gen.G,5,2,6,0,6,0,1,1
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (C),Gen.G vs Rex Regum Qeon,Sunset,Rex Regum Qeon,6,0,1,1,5,2,6,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (A),ZETA DIVISION vs Global Esports,Bind,ZETA DIVISION,7,1,4,1,8,1,1,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (A),ZETA DIVISION vs Global Esports,Bind,Global Esports,8,1,1,0,7,1,4,1
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (A),ZETA DIVISION vs Global Esports,Icebox,ZETA DIVISION,6,3,3,1,3,3,1,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (A),ZETA DIVISION vs Global Esports,Icebox,Global Esports,3,3,1,0,6,3,3,1
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (B),Team Secret vs Talon Esports,Breeze,Team Secret,3,1,2,2,8,1,4,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (B),Team Secret vs Talon Esports,Breeze,Talon Esports,8,1,4,0,3,1,2,2
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (B),Team Secret vs Talon Esports,Ascent,Team Secret,2,1,0,0,7,0,6,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (B),Team Secret vs Talon Esports,Ascent,Talon Esports,7,0,6,0,2,1,0,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (B),DRX vs DetonatioN FocusMe,Lotus,DRX,10,2,1,0,5,0,3,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (B),DRX vs DetonatioN FocusMe,Lotus,DetonatioN FocusMe,5,0,3,0,10,2,1,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (B),DRX vs DetonatioN FocusMe,Breeze,DRX,6,2,5,0,5,1,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (B),DRX vs DetonatioN FocusMe,Breeze,DetonatioN FocusMe,5,1,2,0,6,2,5,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (C),Gen.G vs Paper Rex,Breeze,Gen.G,9,2,2,0,7,0,3,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (C),Gen.G vs Paper Rex,Breeze,Paper Rex,7,0,3,0,9,2,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (C),Gen.G vs Paper Rex,Lotus,Gen.G,7,2,1,0,9,1,3,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (C),Gen.G vs Paper Rex,Lotus,Paper Rex,9,1,3,0,7,2,1,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (C),Gen.G vs Paper Rex,Sunset,Gen.G,4,0,3,0,10,0,3,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (C),Gen.G vs Paper Rex,Sunset,Paper Rex,10,0,3,0,4,0,3,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (A),BLEED vs Global Esports,Sunset,BLEED,7,0,2,0,5,3,5,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (A),BLEED vs Global Esports,Sunset,Global Esports,5,3,5,0,7,0,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (A),BLEED vs Global Esports,Icebox,BLEED,7,3,3,0,5,3,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (A),BLEED vs Global Esports,Icebox,Global Esports,5,3,2,0,7,3,3,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (A),BLEED vs Global Esports,Split,BLEED,5,3,3,0,11,2,0,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (A),BLEED vs Global Esports,Split,Global Esports,11,2,0,0,5,3,3,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (A),T1 vs ZETA DIVISION,Ascent,T1,9,1,1,0,10,0,2,1
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (A),T1 vs ZETA DIVISION,Ascent,ZETA DIVISION,10,0,2,1,9,1,1,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (A),T1 vs ZETA DIVISION,Lotus,T1,9,1,2,1,2,1,1,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (A),T1 vs ZETA DIVISION,Lotus,ZETA DIVISION,2,1,1,0,9,1,2,1
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (A),T1 vs ZETA DIVISION,Sunset,T1,9,0,4,0,3,3,0,1
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (A),T1 vs ZETA DIVISION,Sunset,ZETA DIVISION,3,3,0,1,9,0,4,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (B),DetonatioN FocusMe vs Team Secret,Lotus,DetonatioN FocusMe,5,1,1,0,10,2,1,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (B),DetonatioN FocusMe vs Team Secret,Lotus,Team Secret,10,2,1,0,5,1,1,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (B),DetonatioN FocusMe vs Team Secret,Breeze,DetonatioN FocusMe,7,1,3,0,10,1,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (B),DetonatioN FocusMe vs Team Secret,Breeze,Team Secret,10,1,2,0,7,1,3,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (B),DRX vs Talon Esports,Split,DRX,9,2,1,1,7,1,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (B),DRX vs Talon Esports,Split,Talon Esports,7,1,2,0,9,2,1,1
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (B),DRX vs Talon Esports,Ascent,DRX,9,2,1,1,5,2,1,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (B),DRX vs Talon Esports,Ascent,Talon Esports,5,2,1,0,9,2,1,1
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (C),Gen.G vs Rex Regum Qeon,Lotus,Gen.G,7,2,4,0,4,0,3,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (C),Gen.G vs Rex Regum Qeon,Lotus,Rex Regum Qeon,4,0,3,0,7,2,4,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (C),Gen.G vs Rex Regum Qeon,Breeze,Gen.G,7,1,2,0,7,4,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (C),Gen.G vs Rex Regum Qeon,Breeze,Rex Regum Qeon,7,4,2,0,7,1,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (C),Gen.G vs Rex Regum Qeon,Icebox,Gen.G,10,1,1,1,8,1,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (C),Gen.G vs Rex Regum Qeon,Icebox,Rex Regum Qeon,8,1,2,0,10,1,1,1
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (B),Talon Esports vs Team Secret,Breeze,Talon Esports,4,1,3,0,8,1,4,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (B),Talon Esports vs Team Secret,Breeze,Team Secret,8,1,4,0,4,1,3,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (B),Talon Esports vs Team Secret,Ascent,Talon Esports,6,1,0,0,10,1,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (B),Talon Esports vs Team Secret,Ascent,Team Secret,10,1,2,0,6,1,0,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (A),ZETA DIVISION vs Global Esports,Bind,ZETA DIVISION,7,1,4,1,4,3,1,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (A),ZETA DIVISION vs Global Esports,Bind,Global Esports,4,3,1,0,7,1,4,1
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (A),ZETA DIVISION vs Global Esports,Lotus,ZETA DIVISION,8,2,3,0,1,0,2,0
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (A),ZETA DIVISION vs Global Esports,Lotus,Global Esports,1,0,2,0,8,2,3,0
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Team Secret vs Gen.G,Breeze,Team Secret,9,0,2,2,4,0,1,0
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Team Secret vs Gen.G,Breeze,Gen.G,4,0,1,0,9,0,2,2
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Team Secret vs Gen.G,Lotus,Team Secret,6,2,1,0,8,4,1,0
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Team Secret vs Gen.G,Lotus,Gen.G,8,4,1,0,6,2,1,0
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Team Secret vs Gen.G,Icebox,Team Secret,7,0,5,1,12,1,2,0
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Team Secret vs Gen.G,Icebox,Gen.G,12,1,2,0,7,0,5,1
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,ZETA DIVISION vs Team Secret,Icebox,ZETA DIVISION,0,0,1,0,11,1,1,0
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,ZETA DIVISION vs Team Secret,Icebox,Team Secret,11,1,1,0,0,0,1,0
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,ZETA DIVISION vs Team Secret,Ascent,ZETA DIVISION,6,2,0,0,11,1,1,0
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,ZETA DIVISION vs Team Secret,Ascent,Team Secret,11,1,1,0,6,2,0,0
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Gen.G vs ZETA DIVISION,Icebox,Gen.G,12,0,1,0,2,0,3,1
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Gen.G vs ZETA DIVISION,Icebox,ZETA DIVISION,2,0,3,1,12,0,1,0
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Gen.G vs ZETA DIVISION,Ascent,Gen.G,6,0,6,1,4,0,0,0
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Gen.G vs ZETA DIVISION,Ascent,ZETA DIVISION,4,0,0,0,6,0,6,1
+Champions Tour 2024: Pacific Kickoff,Playoffs,Semifinals,T1 vs Paper Rex,Split,T1,6,3,5,0,14,0,2,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Semifinals,T1 vs Paper Rex,Split,Paper Rex,14,0,2,0,6,3,5,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Semifinals,T1 vs Paper Rex,Ascent,T1,3,1,1,1,7,3,3,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Semifinals,T1 vs Paper Rex,Ascent,Paper Rex,7,3,3,0,3,1,1,1
+Champions Tour 2024: Pacific Kickoff,Playoffs,Semifinals,DRX vs Gen.G,Bind,DRX,8,1,2,1,11,0,3,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Semifinals,DRX vs Gen.G,Bind,Gen.G,11,0,3,0,8,1,2,1
+Champions Tour 2024: Pacific Kickoff,Playoffs,Semifinals,DRX vs Gen.G,Lotus,DRX,6,1,1,0,8,2,3,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Semifinals,DRX vs Gen.G,Lotus,Gen.G,8,2,3,0,6,1,1,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Grand Final,Paper Rex vs Gen.G,Ascent,Paper Rex,5,0,0,0,12,0,1,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Grand Final,Paper Rex vs Gen.G,Ascent,Gen.G,12,0,1,0,5,0,0,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Grand Final,Paper Rex vs Gen.G,Split,Paper Rex,11,1,1,0,3,0,1,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Grand Final,Paper Rex vs Gen.G,Split,Gen.G,3,0,1,0,11,1,1,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Grand Final,Paper Rex vs Gen.G,Lotus,Paper Rex,5,3,3,0,12,0,1,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Grand Final,Paper Rex vs Gen.G,Lotus,Gen.G,12,0,1,0,5,3,3,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Grand Final,Paper Rex vs Gen.G,Bind,Paper Rex,3,0,1,0,8,3,2,0
+Champions Tour 2024: Pacific Kickoff,Playoffs,Grand Final,Paper Rex vs Gen.G,Bind,Gen.G,8,3,2,0,3,0,1,0

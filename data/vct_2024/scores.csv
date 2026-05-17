@@ -1,0 +1,93 @@
+Tournament,Stage,Match Type,Match Name,Team A,Team B,Team A Score,Team B Score,Match Result
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Karmine Corp vs FunPlus Phoenix,Karmine Corp,FunPlus Phoenix,2,0,Karmine Corp won
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Gen.G vs LOUD,Gen.G,LOUD,2,1,Gen.G won
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,EDward Gaming vs Paper Rex,EDward Gaming,Paper Rex,2,1,EDward Gaming won
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 1,Sentinels vs Team Heretics,Sentinels,Team Heretics,2,1,Sentinels won
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Sentinels vs Karmine Corp,Sentinels,Karmine Corp,2,0,Sentinels won
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,EDward Gaming vs Gen.G,EDward Gaming,Gen.G,1,2,Gen.G won
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,FunPlus Phoenix vs LOUD,FunPlus Phoenix,LOUD,0,2,LOUD won
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 2,Team Heretics vs Paper Rex,Team Heretics,Paper Rex,1,2,Paper Rex won
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,LOUD vs EDward Gaming,LOUD,EDward Gaming,2,0,LOUD won
+Champions Tour 2024: Masters Madrid,Swiss Stage,Round 3,Karmine Corp vs Paper Rex,Karmine Corp,Paper Rex,1,2,Paper Rex won
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Gen.G vs Paper Rex,Gen.G,Paper Rex,2,0,Gen.G won
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Semifinals,Sentinels vs LOUD,Sentinels,LOUD,2,1,Sentinels won
+Champions Tour 2024: Masters Madrid,Playoffs,Upper Final,Gen.G vs Sentinels,Gen.G,Sentinels,2,1,Gen.G won
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Round 1,Paper Rex vs LOUD,Paper Rex,LOUD,2,0,Paper Rex won
+Champions Tour 2024: Masters Madrid,Playoffs,Lower Final,Sentinels vs Paper Rex,Sentinels,Paper Rex,3,1,Sentinels won
+Champions Tour 2024: Masters Madrid,Playoffs,Grand Final,Gen.G vs Sentinels,Gen.G,Sentinels,2,3,Sentinels won
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),NRG Esports vs FURIA,NRG Esports,FURIA,2,0,NRG Esports won
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (A),Cloud9 vs MIBR,Cloud9,MIBR,2,1,Cloud9 won
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),LOUD vs Sentinels,LOUD,Sentinels,2,0,LOUD won
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (B),Leviatán vs 100 Thieves,Leviatán,100 Thieves,2,1,Leviatán won
+Champions Tour 2024: Americas Kickoff,Group Stage,Opening (C),KRÜ Esports vs G2 Esports,KRÜ Esports,G2 Esports,1,2,G2 Esports won
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (A),FURIA vs MIBR,FURIA,MIBR,0,2,MIBR won
+Champions Tour 2024: Americas Kickoff,Group Stage,Elimination (B),Sentinels vs 100 Thieves,Sentinels,100 Thieves,2,1,Sentinels won
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (A),NRG Esports vs Cloud9,NRG Esports,Cloud9,2,0,NRG Esports won
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (B),LOUD vs Leviatán,LOUD,Leviatán,2,1,LOUD won
+Champions Tour 2024: Americas Kickoff,Group Stage,Winner's (C),G2 Esports vs Evil Geniuses,G2 Esports,Evil Geniuses,0,2,Evil Geniuses won
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (A),Cloud9 vs MIBR,Cloud9,MIBR,0,2,MIBR won
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (B),Leviatán vs Sentinels,Leviatán,Sentinels,1,2,Sentinels won
+Champions Tour 2024: Americas Kickoff,Group Stage,Decider (C),G2 Esports vs KRÜ Esports,G2 Esports,KRÜ Esports,2,0,G2 Esports won
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,MIBR vs Sentinels,MIBR,Sentinels,0,2,Sentinels won
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,G2 Esports vs MIBR,G2 Esports,MIBR,1,2,MIBR won
+Champions Tour 2024: Americas Kickoff,Play-Ins,Play-ins,Sentinels vs G2 Esports,Sentinels,G2 Esports,1,2,G2 Esports won
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,Evil Geniuses vs LOUD,Evil Geniuses,LOUD,1,2,LOUD won
+Champions Tour 2024: Americas Kickoff,Playoffs,Semifinals,NRG Esports vs Sentinels,NRG Esports,Sentinels,1,2,Sentinels won
+Champions Tour 2024: Americas Kickoff,Playoffs,Grand Final,LOUD vs Sentinels,LOUD,Sentinels,2,3,Sentinels won
+Champions Tour 2024: China Kickoff,Group Stage,Opening (A),Trace Esports vs TYLOO,Trace Esports,TYLOO,2,0,Trace Esports won
+Champions Tour 2024: China Kickoff,Group Stage,Opening (A),FunPlus Phoenix vs Nova Esports,FunPlus Phoenix,Nova Esports,2,0,FunPlus Phoenix won
+Champions Tour 2024: China Kickoff,Group Stage,Opening (B),JD Gaming vs Titan Esports Club,JD Gaming,Titan Esports Club,0,2,Titan Esports Club won
+Champions Tour 2024: China Kickoff,Group Stage,Opening (B),Dragon Ranger Gaming vs All Gamers,Dragon Ranger Gaming,All Gamers,2,0,Dragon Ranger Gaming won
+Champions Tour 2024: China Kickoff,Group Stage,Opening (C),Bilibili Gaming vs Wolves Esports,Bilibili Gaming,Wolves Esports,0,2,Wolves Esports won
+Champions Tour 2024: China Kickoff,Group Stage,Elimination (A),TYLOO vs Nova Esports,TYLOO,Nova Esports,0,2,Nova Esports won
+Champions Tour 2024: China Kickoff,Group Stage,Elimination (B),JD Gaming vs All Gamers,JD Gaming,All Gamers,2,0,JD Gaming won
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (A),Trace Esports vs FunPlus Phoenix,Trace Esports,FunPlus Phoenix,1,2,FunPlus Phoenix won
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (B),Titan Esports Club vs Dragon Ranger Gaming,Titan Esports Club,Dragon Ranger Gaming,1,2,Dragon Ranger Gaming won
+Champions Tour 2024: China Kickoff,Group Stage,Winner's (C),Wolves Esports vs EDward Gaming,Wolves Esports,EDward Gaming,1,2,EDward Gaming won
+Champions Tour 2024: China Kickoff,Group Stage,Decider (A),Trace Esports vs Nova Esports,Trace Esports,Nova Esports,2,0,Trace Esports won
+Champions Tour 2024: China Kickoff,Group Stage,Decider (B),Titan Esports Club vs JD Gaming,Titan Esports Club,JD Gaming,2,1,Titan Esports Club won
+Champions Tour 2024: China Kickoff,Group Stage,Decider (C),Wolves Esports vs Bilibili Gaming,Wolves Esports,Bilibili Gaming,0,2,Bilibili Gaming won
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Trace Esports vs Titan Esports Club,Trace Esports,Titan Esports Club,2,1,Trace Esports won
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Titan Esports Club,Bilibili Gaming,Titan Esports Club,2,0,Bilibili Gaming won
+Champions Tour 2024: China Kickoff,Play-Ins,Round-Robin,Bilibili Gaming vs Trace Esports,Bilibili Gaming,Trace Esports,1,2,Trace Esports won
+Champions Tour 2024: China Kickoff,Playoffs,Semifinals,FunPlus Phoenix vs Dragon Ranger Gaming,FunPlus Phoenix,Dragon Ranger Gaming,2,0,FunPlus Phoenix won
+Champions Tour 2024: China Kickoff,Playoffs,Semifinals,EDward Gaming vs Trace Esports,EDward Gaming,Trace Esports,2,0,EDward Gaming won
+Champions Tour 2024: China Kickoff,Playoffs,Grand Final,FunPlus Phoenix vs EDward Gaming,FunPlus Phoenix,EDward Gaming,1,3,EDward Gaming won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),FUT Esports vs Team Heretics,FUT Esports,Team Heretics,0,2,Team Heretics won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (A),GIANTX vs Karmine Corp,GIANTX,Karmine Corp,1,2,Karmine Corp won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Natus Vincere vs BBL Esports,Natus Vincere,BBL Esports,2,1,Natus Vincere won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (B),Team Liquid vs KOI,Team Liquid,KOI,2,0,Team Liquid won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Opening (C),Team Vitality vs Gentle Mates,Team Vitality,Gentle Mates,2,0,Team Vitality won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (A),Team Heretics vs Karmine Corp,Team Heretics,Karmine Corp,2,0,Team Heretics won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (A),FUT Esports vs GIANTX,FUT Esports,GIANTX,2,1,FUT Esports won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (B),Natus Vincere vs Team Liquid,Natus Vincere,Team Liquid,2,0,Natus Vincere won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Elimination (B),BBL Esports vs KOI,BBL Esports,KOI,0,2,KOI won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Winner's (C),Team Vitality vs FNATIC,Team Vitality,FNATIC,0,2,FNATIC won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (C),Team Vitality vs Gentle Mates,Team Vitality,Gentle Mates,2,1,Team Vitality won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (A),Karmine Corp vs FUT Esports,Karmine Corp,FUT Esports,2,1,Karmine Corp won
+Champions Tour 2024: EMEA Kickoff,Group Stage,Decider (B),Team Liquid vs KOI,Team Liquid,KOI,1,2,KOI won
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,Karmine Corp vs Team Vitality,Karmine Corp,Team Vitality,2,0,Karmine Corp won
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,KOI vs Team Vitality,KOI,Team Vitality,0,2,Team Vitality won
+Champions Tour 2024: EMEA Kickoff,Play-In Stage,Play-ins,Karmine Corp vs KOI,Karmine Corp,KOI,2,0,Karmine Corp won
+Champions Tour 2024: EMEA Kickoff,Playoffs,Semifinals,Team Heretics vs Natus Vincere,Team Heretics,Natus Vincere,2,0,Team Heretics won
+Champions Tour 2024: EMEA Kickoff,Playoffs,Semifinals,FNATIC vs Karmine Corp,FNATIC,Karmine Corp,0,2,Karmine Corp won
+Champions Tour 2024: EMEA Kickoff,Playoffs,Grand Final,Team Heretics vs Karmine Corp,Team Heretics,Karmine Corp,1,3,Karmine Corp won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (A),T1 vs BLEED,T1,BLEED,2,0,T1 won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (C),Gen.G vs Rex Regum Qeon,Gen.G,Rex Regum Qeon,2,1,Gen.G won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (A),ZETA DIVISION vs Global Esports,ZETA DIVISION,Global Esports,2,0,ZETA DIVISION won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (B),Team Secret vs Talon Esports,Team Secret,Talon Esports,0,2,Talon Esports won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Opening (B),DRX vs DetonatioN FocusMe,DRX,DetonatioN FocusMe,2,0,DRX won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (C),Gen.G vs Paper Rex,Gen.G,Paper Rex,1,2,Paper Rex won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (A),BLEED vs Global Esports,BLEED,Global Esports,1,2,Global Esports won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (A),T1 vs ZETA DIVISION,T1,ZETA DIVISION,2,1,T1 won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Elimination (B),DetonatioN FocusMe vs Team Secret,DetonatioN FocusMe,Team Secret,0,2,Team Secret won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Winner's (B),DRX vs Talon Esports,DRX,Talon Esports,2,0,DRX won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (C),Gen.G vs Rex Regum Qeon,Gen.G,Rex Regum Qeon,2,1,Gen.G won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (B),Talon Esports vs Team Secret,Talon Esports,Team Secret,0,2,Team Secret won
+Champions Tour 2024: Pacific Kickoff,Group Stage,Decider (A),ZETA DIVISION vs Global Esports,ZETA DIVISION,Global Esports,2,0,ZETA DIVISION won
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Team Secret vs Gen.G,Team Secret,Gen.G,1,2,Gen.G won
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,ZETA DIVISION vs Team Secret,ZETA DIVISION,Team Secret,0,2,Team Secret won
+Champions Tour 2024: Pacific Kickoff,Play-Ins,Play-ins,Gen.G vs ZETA DIVISION,Gen.G,ZETA DIVISION,2,0,Gen.G won
+Champions Tour 2024: Pacific Kickoff,Playoffs,Semifinals,T1 vs Paper Rex,T1,Paper Rex,0,2,Paper Rex won
+Champions Tour 2024: Pacific Kickoff,Playoffs,Semifinals,DRX vs Gen.G,DRX,Gen.G,0,2,Gen.G won
+Champions Tour 2024: Pacific Kickoff,Playoffs,Grand Final,Paper Rex vs Gen.G,Paper Rex,Gen.G,1,3,Gen.G won
