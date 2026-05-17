@@ -6,14 +6,16 @@ venv/
 .venv/
 *.egg-info/
 
+# 2021 data excluded — too large for Streamlit Cloud free tier
+data/vct_2021/
+
 # Raw per-round data (too large for GitHub — use aggregated files only)
 data/*/kills.csv
 data/*/rounds_kills.csv
 data/*/eco_rounds.csv
 data/*/win_loss_methods_round_number.csv
 
-# overview.csv is large for 2021/2022 — only 2023/2024 are included
-data/vct_2021/overview.csv
+# overview.csv is large for 2022 — only 2023/2024 are included
 data/vct_2022/overview.csv
 
 # ID lookup tables (not needed by dashboard)

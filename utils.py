@@ -3,8 +3,22 @@ import pandas as pd
 from pathlib import Path
 
 DATA_PATH = Path(__file__).parent / "data"
-YEARS = [2021, 2022, 2023, 2024]
+YEARS = [2022, 2023, 2024]   # 2021 excluded — too large for Streamlit Cloud free tier
 VALORANT_RED = "#ff4655"
+
+# String columns converted to category dtype to cut memory ~4-8x
+_CATEGORY_COLS = {
+    "players_stats.csv":        ["Tournament", "Stage", "Match Type", "Player", "Teams", "Agents"],
+    "agents_pick_rates.csv":    ["Tournament", "Stage", "Match Type", "Map", "Agent"],
+    "maps_stats.csv":           ["Tournament", "Stage", "Match Type", "Map"],
+    "kills_stats.csv":          ["Tournament", "Stage", "Match Type", "Match Name", "Map", "Team", "Player", "Agents"],
+    "eco_stats.csv":            ["Tournament", "Stage", "Match Type", "Match Name", "Map", "Team", "Type"],
+    "win_loss_methods_count.csv": ["Tournament", "Stage", "Match Type", "Match Name", "Map", "Team"],
+    "scores.csv":               ["Tournament", "Stage", "Match Type", "Match Name", "Team A", "Team B", "Match Result"],
+    "maps_played.csv":          ["Tournament", "Stage", "Match Type", "Match Name", "Map"],
+    "draft_phase.csv":          ["Tournament", "Stage", "Match Type", "Match Name", "Team", "Action", "Map"],
+    "overview.csv":             ["Tournament", "Stage", "Match Type", "Match Name", "Map", "Player", "Team", "Agents", "Side"],
+}
 
 
 @st.cache_data
@@ -13,6 +27,10 @@ def load_year(year: int, filename: str) -> pd.DataFrame:
     if not path.exists():
         return pd.DataFrame()
     df = pd.read_csv(path, low_memory=False)
+    # Downcast string columns to category to save memory
+    for col in _CATEGORY_COLS.get(filename, []):
+        if col in df.columns:
+            df[col] = df[col].astype("category")
     df["Year"] = year
     return df
 
