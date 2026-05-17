@@ -3,58 +3,97 @@ import pandas as pd
 from pathlib import Path
 
 DATA_PATH = Path(__file__).parent / "data"
-YEARS = [2022, 2023, 2024]   # 2021 excluded — too large for Streamlit Cloud free tier
+YEARS = [2022, 2023, 2024]
 VALORANT_RED = "#ff4655"
 
-# String columns converted to category dtype to cut memory ~4-8x
-_CATEGORY_COLS = {
-    "players_stats.csv":        ["Tournament", "Stage", "Match Type", "Player", "Teams", "Agents"],
-    "agents_pick_rates.csv":    ["Tournament", "Stage", "Match Type", "Map", "Agent"],
-    "maps_stats.csv":           ["Tournament", "Stage", "Match Type", "Map"],
-    "kills_stats.csv":          ["Tournament", "Stage", "Match Type", "Match Name", "Map", "Team", "Player", "Agents"],
-    "eco_stats.csv":            ["Tournament", "Stage", "Match Type", "Match Name", "Map", "Team", "Type"],
-    "win_loss_methods_count.csv": ["Tournament", "Stage", "Match Type", "Match Name", "Map", "Team"],
-    "scores.csv":               ["Tournament", "Stage", "Match Type", "Match Name", "Team A", "Team B", "Match Result"],
-    "maps_played.csv":          ["Tournament", "Stage", "Match Type", "Match Name", "Map"],
-    "draft_phase.csv":          ["Tournament", "Stage", "Match Type", "Match Name", "Team", "Action", "Map"],
-    "overview.csv":             ["Tournament", "Stage", "Match Type", "Match Name", "Map", "Player", "Team", "Agents", "Side"],
+# Only load columns the dashboard actually references — cuts memory 50-70% per file
+_USECOLS: dict[str, list[str]] = {
+    "players_stats.csv": [
+        "Tournament", "Player", "Teams", "Rounds Played",
+        "Average Combat Score", "Kills:Deaths",
+        "Kill, Assist, Trade, Survive %",
+        "Average Damage Per Round", "Headshot %",
+        "Kills", "Deaths",
+    ],
+    "agents_pick_rates.csv": ["Map", "Agent", "Pick Rate"],
+    "maps_stats.csv": [
+        "Map",
+        "Attacker Side Win Percentage",
+        "Defender Side Win Percentage",
+    ],
+    "kills_stats.csv": [
+        "Map", "Player",
+        "2k", "3k", "4k", "5k",
+        "1v1", "1v2", "1v3", "1v4", "1v5",
+        "Spike Plants", "Spike Defuses",
+    ],
+    "eco_stats.csv": ["Type", "Initiated", "Won"],
+    "win_loss_methods_count.csv": [
+        "Map", "Team",
+        "Elimination", "Detonated", "Defused", "Time Expiry (No Plant)",
+    ],
+    "scores.csv": ["Match Name", "Team A", "Team B", "Match Result"],
+    "maps_played.csv": ["Map"],
+    "draft_phase.csv": ["Action", "Map"],
+}
+
+# String columns to store as category (saves ~4-8x vs object dtype)
+_CATEGORIES: dict[str, list[str]] = {
+    "players_stats.csv":        ["Tournament", "Player", "Teams"],
+    "agents_pick_rates.csv":    ["Map", "Agent"],
+    "maps_stats.csv":           ["Map"],
+    "kills_stats.csv":          ["Map", "Player"],
+    "eco_stats.csv":            ["Type"],
+    "win_loss_methods_count.csv": ["Map", "Team"],
+    "scores.csv":               ["Team A", "Team B", "Match Result"],
+    "maps_played.csv":          ["Map"],
+    "draft_phase.csv":          ["Action", "Map"],
 }
 
 
-@st.cache_data
+def _downcast(df: pd.DataFrame) -> pd.DataFrame:
+    for col in df.select_dtypes("float64").columns:
+        df[col] = pd.to_numeric(df[col], downcast="float")
+    for col in df.select_dtypes("int64").columns:
+        df[col] = pd.to_numeric(df[col], downcast="integer")
+    return df
+
+
+@st.cache_data(show_spinner=False)
 def load_year(year: int, filename: str) -> pd.DataFrame:
     path = DATA_PATH / f"vct_{year}" / filename
     if not path.exists():
         return pd.DataFrame()
-    df = pd.read_csv(path, low_memory=False)
-    # Downcast string columns to category to save memory
-    for col in _CATEGORY_COLS.get(filename, []):
+    cols = _USECOLS.get(filename)
+    df = pd.read_csv(path, usecols=cols, low_memory=False)
+    for col in _CATEGORIES.get(filename, []):
         if col in df.columns:
             df[col] = df[col].astype("category")
+    df = _downcast(df)
     df["Year"] = year
     return df
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_multi_year(filename: str) -> pd.DataFrame:
     frames = [load_year(y, filename) for y in YEARS]
     frames = [f for f in frames if not f.empty]
     return pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_all() -> dict[str, pd.DataFrame]:
     return {
-        "players":   load_multi_year("players_stats.csv"),
-        "agents":    load_multi_year("agents_pick_rates.csv"),
-        "maps":      load_multi_year("maps_stats.csv"),
-        "overview":  load_multi_year("overview.csv"),
-        "kills":     load_multi_year("kills_stats.csv"),
-        "eco":       load_multi_year("eco_stats.csv"),
-        "win_loss":  load_multi_year("win_loss_methods_count.csv"),
-        "scores":    load_multi_year("scores.csv"),
-        "played":    load_multi_year("maps_played.csv"),
-        "draft":     load_multi_year("draft_phase.csv"),
+        "players":  load_multi_year("players_stats.csv"),
+        "agents":   load_multi_year("agents_pick_rates.csv"),
+        "maps":     load_multi_year("maps_stats.csv"),
+        "kills":    load_multi_year("kills_stats.csv"),
+        "eco":      load_multi_year("eco_stats.csv"),
+        "win_loss": load_multi_year("win_loss_methods_count.csv"),
+        "scores":   load_multi_year("scores.csv"),
+        "played":   load_multi_year("maps_played.csv"),
+        "draft":    load_multi_year("draft_phase.csv"),
+        # overview.csv removed — was loaded but never used
     }
 
 
